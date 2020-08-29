@@ -1,23 +1,7 @@
-num1 = 10
-num2 = 100
-num3 = 1000
-num4 = 10000
+date = 20200829
 
 
-yylg wojinwan 11 dianzhong daojichang
+yylg caifenkaiyitian wojiuhaoxiangnia
 
-
-
-
-haoleiyjbb wanshangwozaijichangjieni
-xaingsinile bb
-haoxiangbaobaoni
-
-yylg woyehaoxingni
-
-zhongyuyaojiandaowodeyjbaobeila
-hei hei hei
-
-womenzhongyukeyikaijitianlou
 
 
